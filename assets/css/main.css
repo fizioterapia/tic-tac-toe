@@ -15,7 +15,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to bottom, var(--bgdim), var(--bgdim)), url("../img/bg.webp");
+  background: linear-gradient(to bottom, var(--bgdim), var(--bgdim)), url("/assets/img/bg.webp");
   background-size: cover;
   font-family: sans-serif;
 }
@@ -119,6 +119,12 @@ html {
   width: 50%;
   height: 50%;
   opacity: 1;
+}
+
+.win-text {
+  margin: 16px 0;
+  font-size: 1.5em;
+  font-weight: 700;
 }
 
 @media screen and (min-device-aspect-ratio: 16/9) {
