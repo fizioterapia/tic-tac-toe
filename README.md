@@ -1,6 +1,10 @@
 # Tic Tac Toe
 Simple Tic Tac Toe game made for fun and for education how to use root pseudoelement and datasets in a Vanilla JavaScript without using any frameworks, all information is set using datasets onto the actual HTML elements.
 
+## TODO
+- [ ] Fix overflowing game on screens bigger than FHD+
+- [ ] Center a timer text
+
 ## Running
 Download/clone the repository and open the `index.html` file or run it using any web server available like the `SimpleHTTPServer` for Python.
 
